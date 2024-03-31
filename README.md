@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chika
 - 👀 I’m interested in Frontend Developer and DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on a comprehensive projec
+- 💞️ I’m looking to collaborate on a comprehensive project
 - 📫 How to reach me ...
 - 😄 Pronouns: Male
 - ⚡ Fun fact: 🤪
